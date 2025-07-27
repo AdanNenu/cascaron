@@ -12,8 +12,8 @@ const fechaInicioModal = "2025-07-10"; // Formato YYYY-MM-DD
 const fechaFinModal = "2025-07-30";    // Formato YYYY-MM-DD
 
 //URL Anuncio Cliente
-const urlModalAnuncioClienteH = "https://www.canva.com/design/DAGtHFEdE2M/E30NZGqvTxSaQsPNHt1-Dg/watch?embed";//Se quema la variable del anuncio del cliente
-const urlModalAnuncioClienteV = "https://www.canva.com/design/DAGtHFEdE2M/E30NZGqvTxSaQsPNHt1-Dg/watch?embed";//Se quema la variable del anuncio del cliente
+const urlModalAnuncioClienteH = "";//Se quema la variable del anuncio del cliente
+const urlModalAnuncioClienteV = "";//Se quema la variable del anuncio del cliente
 let urlModalActualH = "";//Se usará par validar si la urlModalAnuncioCliente es igual a urlModalActualH
 let urlModalActualV = "";//para saber si se trata del anuncio, y agregar boton.
 
@@ -22,11 +22,11 @@ const colapsarBotonera  = true; //Si es false, funciona con normalidad. Si es Tr
 
 //Información del Cliente
 const telefonoWA = "+52";
-const telefonoMovil = "+52";
+const telefonoMovil = "+524771234567";
 const correoGmail = "";
 const urlMaps = "";
 const urlCalendy = "";
-const url1 = "https://www.ubereats.com/store-browse-uuid/664f45fe-79ba-5922-8e89-9fe5e49db02a?diningMode=DELIVERY";//Uber eats
+const url1 = "";
 const url2 = ""; 
 const url3 = "";
 const url4 = "";
